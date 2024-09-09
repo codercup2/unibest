@@ -1,5 +1,4 @@
 import path from 'node:path'
-import { execSync } from 'node:child_process'
 import dayjs from 'dayjs'
 import { defineConfig, loadEnv } from 'vite'
 import Uni from '@dcloudio/vite-plugin-uni'
